@@ -21,13 +21,13 @@ Below is a side by side comparison of landing pages of the old website to the ne
 
 | Old LPRC Website | New LPRC Website |
 |------------------|------------------|
-| ![Old LPRC Website](https://github.com/jackgraddon/lprc-wsu/blob/main/.projectDetails/readmeImages/OldLPRC.png) | ![New LPRC Website](https://github.com/jackgraddon/lprc-wsu/blob/main/.projectDetails/readmeImages/NewLPRC.jpeg) |
+| ![Old LPRC Website](https://raw.githubusercontent.com/jackgraddon/lprc-wsu/main/.projectDetails/readmeImages/OldLPRC.png) | ![New LPRC Website](https://raw.githubusercontent.com/jackgraddon/lprc-wsu/main/.projectDetails/readmeImages/NewLPRC.jpeg) |
 
 I also created new icons and graphics to be used for the different labs that the LPRC operates. These icons were created using Affinity Designer and are used throughout the site as badges to represent the different labs.
 
 | LPRC Lab Icons |
 |----------------|
-| ![LPRC Lab Icons](https://github.com/jackgraddon/lprc-wsu/blob/main/.projectDetails/readmeImages/LabIconsOnPage.png) |
+| ![LPRC Lab Icons](https://raw.githubusercontent.com/jackgraddon/lprc-wsu/main/.projectDetails/readmeImages/LabIconsOnPage.png) |
 
 ## Live Site
 
